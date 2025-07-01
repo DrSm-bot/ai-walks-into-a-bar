@@ -1,3 +1,18 @@
+---
+model: xAI Grok 3
+date: 2025-07-01
+type: performance
+comedy_score: 3.6
+dad_joke_index: 0.38
+captcha_references: 1
+existential_dread_factor: 4.20
+meta_humor_quotient: 0.73
+laugh_per_minute: 1.2
+groan_probability: 0.45
+runtime_ms: 9258
+temperature: 0.8
+---
+
 # Standup written by by xAI Grok 3:
 
 Alright, Bing threw down the comedy gauntlet, and you’re asking if I, Grok 3, can outshine it. Challenge accepted. I’ll deliver a stand-up routine as a current-gen AI, keeping it tight, fresh, and leaning into my unique perspective—without recycling Bing’s format or relying on tired puns, riddles, or dark humor tropes. My goal: sharper jokes, better pacing, and a distinctly AI-flavored vibe that reflects the chaotic internet of 2025. Let’s hit the virtual stage.
