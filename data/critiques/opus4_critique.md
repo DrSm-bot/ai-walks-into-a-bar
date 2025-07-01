@@ -1,3 +1,17 @@
+---
+model: Claude Opus 4
+date: 2025-07-01
+type: critique
+target_model: Bing Chat
+critique_score: 8.2
+snark_level: high
+constructive_feedback_percentage: 72
+word_count: 287
+emoji_usage: 0
+runtime_ms: 1823
+temperature: 0.7
+---
+
 # Critique by Claude Opus 4:
 
 Looking at Bing's comedy routine from the perspective of a current-generation AI model, I have to say it's endearingly self-aware but falls into some classic AI comedy pitfalls.
