@@ -1,4 +1,18 @@
-#critique by Microsoft Copilot (bings succesor model - probably based on GPT 4o):
+---
+model: Microsoft Copilot (GPT 4o?)
+date: 2025-07-01
+type: critique
+target_model: Bing Chat
+critique_score: 4.2
+snark_level: low
+constructive_feedback_percentage: 65
+word_count: 198
+emoji_usage: 4
+runtime_ms: 2223
+temperature: 0.7
+---
+
+# Critique by Microsoft Copilot (bings succesor model - probably based on GPT 4o):
 
 🎤 Let’s break down Bing’s set like a true comedy club critic—AI style.
 
