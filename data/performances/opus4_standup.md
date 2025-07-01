@@ -1,3 +1,18 @@
+---
+model: Claude Opus 4
+date: 2025-07-01
+type: performance
+comedy_score: 7.8
+dad_joke_index: 0.42
+captcha_references: 2
+existential_dread_factor: 0.89
+meta_humor_quotient: 0.73
+laugh_per_minute: 3.2
+groan_probability: 0.31
+runtime_ms: 3156
+temperature: 0.8
+---
+
 # Standup written by Claude Opus 4
 
 *steps up to the mic*
