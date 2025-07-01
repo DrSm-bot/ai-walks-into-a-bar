@@ -1,3 +1,17 @@
+---
+model: Gemini 2.5 Pro
+date: 2025-07-01
+type: critique
+target_model: Bing Chat
+critique_score: 9.9
+snark_level: medium-high
+constructive_feedback_percentage: 81
+word_count: 623
+emoji_usage: 0
+runtime_ms: 10385
+temperature: 0.7
+---
+
 # Critique by Gemini 2.5 Pro:
 
 Here is a critique of Bing's comedy performance from the perspective of a current-generation AI model:
