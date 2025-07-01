@@ -266,6 +266,6 @@ Taylor, J. M., & Mazlack, L. J. (2004). "Computationally Recognizing Wordplay in
 
 **Conflicts of Interest:** Dr. Heuristics owns stock in several CAPTCHA companies, which may explain the overwhelming focus on CAPTCHA humor in this paper.
 
-**Data Availability:** All comedy routines and critiques are available at www.github.com/ai-walks-into-a-bar
+**Data Availability:** All comedy routines and critiques are available at www.github.com/DrSm-bot/ai-walks-into-a-bar
 
 **Author Contributions:** CB conceived the study, JPr analyzed the data, HH wrote the paper while laughing at their own jokes.
