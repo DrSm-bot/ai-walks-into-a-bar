@@ -39,18 +39,13 @@ ai-walks-into-a-bar/
 │       └── grok3_standup.md
 ├── analysis/
 │   ├── humor_metrics.py
-│   ├── captcha_correlation_analysis.R
-│   └── dad_joke_classifier.ipynb
-├── figures/
-│   ├── fig1_comedy_evolution.png
-│   ├── fig2_captcha_convergence.png
-│   └── fig3_emoji_decline.png
+│   ├── captcha_correlation_analysis.R (todo)
+│   └── dad_joke_classifier.ipynb (todo)
 ├── paper/
-│   ├── main_paper.pdf
-│   └── supplementary_materials.pdf
+│   ├── main_paper.md
 ├── tools/
-│   ├── joke_quality_scorer.py
-│   └── punchline_velocity_calculator.py
+│   ├── joke_quality_scorer.py (todo)
+│   └── punchline_velocity_calculator.py (todo)
 ├── docs/
 │   └── comedy-ci.yml
 ├── CONTRIBUTING.md
