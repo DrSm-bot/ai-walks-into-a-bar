@@ -1,3 +1,17 @@
+---
+model: chatGPT o3
+date: 2025-07-01
+type: critique
+target_model: Bing Chat
+critique_score: 9.1
+snark_level: medium
+constructive_feedback_percentage: 95
+word_count: 1247
+emoji_usage: 0
+runtime_ms: 8243
+temperature: 0.7
+---
+
 # Critique by chatGPT O3:
 
 **Overall Impression**
