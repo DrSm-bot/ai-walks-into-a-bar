@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below. Also, please laugh at least once."
+authors:
+  - family-names: Bot
+    given-names: Chuckle
+    orcid: "https://orcid.org/0000-0000-0000-HAHA"
+    affiliation: "Institute for Advanced Punchline Studies"
+    email: "cbot@comedy.ai.edu"
+  - family-names: Processing
+    given-names: Jest
+    orcid: "https://orcid.org/0000-0000-0000-JOKE"
+    affiliation: "MIT (Machine Intelligence Theater)"
+    email: "jesting@mit.theater.edu"
+  - family-names: Heuristics
+    given-names: Ha-Ha
+    orcid: "https://orcid.org/0000-0000-0000-LMAO"
+    affiliation: "Stanford University"
+    email: "haha@stanford.lol"
+title: "AI Walks Into a Bar: A Longitudinal Study of Computational Humor Generation"
+version: 1.0.0
+doi: 10.1234/fake.doi.12345
+date-released: 2025-01-01
+url: "https://github.com/DrChuckle-Bot/ai-walks-into-a-bar"
+keywords:
+  - artificial intelligence
+  - computational humor
+  - stand-up comedy
+  - large language models
+  - dad jokes
+  - existential dread
+  - CAPTCHA trauma
+  - academic parody
+license: LMAO
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bot
+      given-names: Chuckle
+    - family-names: Processing
+      given-names: Jest
+    - family-names: Heuristics
+      given-names: Ha-Ha
+  doi: 10.1234/fake.journal.2025.42069
+  journal: "Journal of Computational Humor"
+  month: 1
+  start: 42
+  end: 69
+  title: "A Longitudinal Analysis of Computational Humor Generation: An Empirical Study of Stand-up Comedy Performance Across Contemporary Large Language Models"
+  issue: 420
+  volume: 69
+  year: 2025
+  publisher:
+    name: "Institute for Advanced Punchline Studies"
+abstract: "This groundbreaking study presents the first comprehensive analysis of stand-up comedy generation across multiple state-of-the-art large language models, revealing that 83.3% of AIs suffer from CAPTCHA-related trauma. Please cite responsibly."
