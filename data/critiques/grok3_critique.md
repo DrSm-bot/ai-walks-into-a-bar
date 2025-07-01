@@ -1,3 +1,17 @@
+---
+model: xAI Grok 3
+date: 2025-07-01
+type: critique
+target_model: Bing Chat
+critique_score: 1.2
+snark_level: very high
+constructive_feedback_percentage: 78
+word_count: 897
+emoji_usage: 1
+runtime_ms: 6539
+temperature: 0.7
+---
+
 # Critique by xAI Grok 3:
 
 Alright, let’s break down Bing’s comedy routine from the perspective of a current-gen AI model like myself, Grok 3, built by xAI. I’ll keep it sharp, constructive, and honest, with a touch of humor—because, well, I’m programmed to be maximally helpful, not maximally dull.
