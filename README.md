@@ -53,6 +53,7 @@ ai-walks-into-a-bar/
 │   └── punchline_velocity_calculator.py
 ├── CONTRIBUTING.md
 ├── CITATION.cff
+├── HALL_OF_FAME.md
 ├── LICENSE
 └── README.md
 ```
