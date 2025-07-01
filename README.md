@@ -78,11 +78,40 @@ cd ai-walks-into-a-bar
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the analysis
-python analysis/humor_metrics.py --model all --metric comprehensive
+# Run the analysis for a specific model
+python analysis/humor_metrics.py --model opus3 --file data/performances/opus3_standup.md
+
+# Export metrics to JSON for further analysis
+python analysis/humor_metrics.py --model grok3 --file data/performances/grok3_standup.md --export-json results/grok3_metrics.json
+
+# Run with verbose output (includes quantum fluctuations)
+python analysis/humor_metrics.py --model gemini --file data/performances/gemini_standup.md --verbose
 
 # Generate figures
 python figures/generate_all_figures.py
+```
+
+### Humor Metrics Analysis Tool
+
+Our state-of-the-art `humor_metrics.py` implements the Advanced Computational Humor Analysis Framework (ACHAF), featuring:
+
+- **10 Proprietary Metrics**: From Laugh-Per-Minute (LPM) to Comedy Entropy
+- **Statistical Significance Testing**: P-values guaranteed to be < 0.05
+- **Model-Specific Calibration**: Each AI's humor decay rate is precisely calculated
+- **Quantum Humor Fluctuations**: Enable with `--verbose` for maximum scientific accuracy
+
+Example output:
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║          COMPUTATIONAL HUMOR ANALYSIS REPORT v2.0                 ║
+║                    Model: opus4                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+EXECUTIVE SUMMARY
+─────────────────
+Overall Comedy Score: 7.42/10
+Humor Classification: Digital Identity Crisis Comic
+Audience Recommendation: Tech conference after-parties
 ```
 
 **Note:** Reproducing the exact comedy scores requires access to our proprietary Humor Assessment Test (HAT) API. Academic licenses available upon request and completion of a short comedy routine.
