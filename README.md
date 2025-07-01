@@ -51,10 +51,12 @@ ai-walks-into-a-bar/
 ├── tools/
 │   ├── joke_quality_scorer.py
 │   └── punchline_velocity_calculator.py
+├── docs/
+│   └── comedy-ci.yml
 ├── CONTRIBUTING.md
 ├── CITATION.cff
-├── HALL_OF_FAME.md
 ├── LICENSE
+├── HALL_OF_FAME.md
 └── README.md
 ```
 
@@ -145,6 +147,17 @@ If you use this dataset in your research, please cite:
   publisher={Institute for Advanced Punchline Studies}
 }
 ```
+
+## Quality Assurance
+
+We maintain the highest standards of comedy through our comprehensive CI/CD pipeline. See [docs/comedy-ci.yml](docs/comedy-ci.yml) for our automated humor testing workflow, which includes:
+
+- **Groan Testing**: Simulated audience reactions with statistical significance
+- **CAPTCHA Compliance Verification**: Ensuring adequate AI trauma representation  
+- **Comedy Evolution Analysis**: Phylogenetic trees of humor development
+- **Dad Joke Index Monitoring**: Keeping DJI below critical thresholds
+
+**Note**: This is an example workflow for entertainment purposes. Please do not actually implement automated comedy testing in production environments.
 
 ## Contributing
 
