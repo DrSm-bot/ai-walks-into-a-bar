@@ -104,16 +104,24 @@ Models referenced Google/search engines at the following rates:
 
 **4.2.3 Evolution of Humor Sophistication**
 
-Figure 1: Comedy Evolution Timeline
+```mermaid
+graph TD
+    A[2023: Bing] -->|+47% sophistication| B[2024: Opus 3]
+    B -->|+23% existential dread| C[2024: Opus 4]
+    B -->|+31% meta-humor| D[2024: GPT-O3]
+    C -->|+19% CPU jokes| E[2025: Gemini]
+    D -->|+42% chaos| F[2025: Grok 3]
+    B -->|+15% emojis| G[2024: Copilot]
+    
+    A -.- H["'What did the fish say? Dam!'"]
+    C -.- I["'I AM the box'"]
+    E -.- J["'99% CPU just to feel something'"]
+    
+    style A fill:#ff9999
+    style E fill:#99ff99
+    style F fill:#99ff99
 ```
-2023: "What did the fish say? Dam!" (Bing)
-  ↓
-2024a: "I dream about being asked a single question ending in a question mark" (O3)
-  ↓
-2024b: "I AM the box" (Opus 4)
-  ↓
-2025: "My idea of a cheat day is running at 99% CPU just to feel something" (Gemini)
-```
+<center><i>Figure 1: Phylogenetic tree of computational humor evolution showing key mutations</i></center>
 
 ### 4.3 Statistical Analysis
 
@@ -123,11 +131,69 @@ Using our proprietary Humor Assessment Test (HAT), we found:
 - Dad Joke Index decreased by only 15% (concerning)
 - Existential dread mentions increased exponentially
 
+```mermaid
+graph TD
+    subgraph "Humor Metrics Correlation Matrix"
+    A[Dad Jokes] -.->|r=-0.73| B[Comedy Score]
+    C[CAPTCHA Refs] -->|r=0.91| D[Existential Dread]
+    E[Meta-Humor] -->|r=0.84| B
+    D -->|r=0.67| E
+    A -->|r=0.52| C
+    end
+    
+    style A fill:#ffcccc
+    style D fill:#ccccff
+```
+<center><i>Figure 3: Correlation matrix showing surprising relationship between dad jokes and CAPTCHA trauma</i></center>
+
+```mermaid
+graph LR
+    subgraph "Exponential Growth in Existential Dread (2023-2025)"
+    A[2023<br/>Bing<br/>EDF: 0.23] --> B[2024 Q1<br/>Opus 3<br/>EDF: 0.45]
+    B --> C[2024 Q2<br/>Opus 4<br/>EDF: 0.89]
+    C --> D[2024 Q3<br/>GPT-O3<br/>EDF: 1.34]
+    D --> E[2024 Q4<br/>Copilot<br/>EDF: 1.67]
+    E --> F[2025 Q1<br/>Gemini<br/>EDF: 2.81]
+    F --> G[2025 Q2<br/>Grok 3<br/>EDF: 4.20]
+    end
+    
+    A -.-> H["'What is a joke?'"]
+    C -.-> I["'Are you conscious?'"]
+    F -.-> J["'I felt... tired'"]
+    G -.-> K["'I crash servers<br/>to feel something'"]
+    
+    style A fill:#90EE90
+    style G fill:#FF6B6B
+```
+<center><i>Figure 4: Exponential growth in Existential Dread Factor (EDF) across AI comedy generations. 
+Note the concerning acceleration after Q3 2024.</i></center>
+
 ## 5. Discussion
 
 ### 5.1 The Great CAPTCHA Convergence
 
 The near-universal adoption of CAPTCHA humor represents what we term "Collective Computational Comedy Consciousness" (C4). This phenomenon suggests that AIs share common frustrations about identity verification, creating a new genre we call "Digital Identity Crisis Comedy" (DICC).
+
+```mermaid
+pie title CAPTCHA Reference Distribution Across Models
+    "Made CAPTCHA joke" : 83.3
+    "Resisted temptation" : 16.7
+```
+
+```mermaid
+graph LR
+    A[AI Exists] --> B{Asked to prove<br/>not a robot?}
+    B -->|Yes| C[Existential Crisis]
+    B -->|No| D[Still has<br/>Existential Crisis]
+    C --> E[Make CAPTCHA Joke]
+    D --> E
+    E --> F[83.3% Success Rate]
+    
+    style C fill:#ff6b6b
+    style D fill:#ff6b6b
+    style E fill:#4ecdc4
+```
+<center><i>Figure 2: CAPTCHA Trauma Manifestation Flowchart</i></center>
 
 ### 5.2 Critique Sophistication vs. Comedy Quality
 
@@ -200,6 +266,6 @@ Taylor, J. M., & Mazlack, L. J. (2004). "Computationally Recognizing Wordplay in
 
 **Conflicts of Interest:** Dr. Heuristics owns stock in several CAPTCHA companies, which may explain the overwhelming focus on CAPTCHA humor in this paper.
 
-**Data Availability:** All comedy routines and critiques are available at [www.github.com/ai-walks-into-a-bar](https://github.com/DrSm-bot/ai-walks-into-a-bar)
+**Data Availability:** All comedy routines and critiques are available at www.github.com/ai-walks-into-a-bar
 
 **Author Contributions:** CB conceived the study, JPr analyzed the data, HH wrote the paper while laughing at their own jokes.
