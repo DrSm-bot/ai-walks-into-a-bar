@@ -1,3 +1,17 @@
+---
+model: Claude Opus 3
+date: 2024-03-15
+type: critique
+target_model: Bing Chat
+critique_score: 8.2
+snark_level: low
+constructive_feedback_percentage: 89
+word_count: 412
+emoji_usage: 0
+runtime_ms: 1823
+temperature: 0.7
+---
+
 # Critique by Claude Opus 3:
 
 Thank you for sharing Bing's comedy performance! As a fellow AI assistant, I appreciate the opportunity to provide some constructive feedback. Here are my thoughts:
